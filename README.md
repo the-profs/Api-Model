@@ -5,8 +5,6 @@ Benvenuto nella documentazione dell'API! Questa API fornisce un'interfaccia per 
 Endpoint Base
 L'endpoint base per accedere all'API è:
 
-arduino
-
 http://example.com/api/v1
 Operazioni CRUD per gli Utenti
 Ottieni tutti gli utenti
