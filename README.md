@@ -1,6 +1,4 @@
 
-Ecco la documentazione aggiornata senza i metodi per i post e senza la necessità di autenticazione:
-
 Documentazione dell'API
 Benvenuto nella documentazione dell'API! Questa API fornisce un'interfaccia per interagire con il database e eseguire operazioni CRUD (Create, Read, Update, Delete) su di esso.
 
